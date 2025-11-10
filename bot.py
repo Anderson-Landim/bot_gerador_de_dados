@@ -233,7 +233,7 @@ def parar():
 
 # Janela principal
 root = tk.Tk()
-root.title("Bot Lançador de dados com SQLite")
+root.title("Bot gerador de dados")
 style = Style("cyborg")  # Tema escuro
 root.geometry("1200x800")
 
